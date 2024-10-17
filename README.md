@@ -5,7 +5,7 @@ REG NO: 212223240025
 ```
 # Aim :
 To create UML Diagrams for ATM & Banking systems using StarUML.
-<H1>USE CASE DIAGRAM</H1>
+## USE CASE DIAGRAM
 ![image](https://github.com/user-attachments/assets/77076d28-059b-45b7-8081-1bd4367bd784)
 
 <H1>CLASS DIAGRAM</H1>
